@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "LI Lin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "LI Lin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD, CityU"
+  location         : "Kowloon, Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "LIXIAOLE7"
   google_plus      :
   keybase          :
   instagram        :
