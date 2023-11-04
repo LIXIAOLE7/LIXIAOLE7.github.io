@@ -12,4 +12,4 @@ I am currently a first year Ph.D. student in the [School of Data Science](https:
 
 My research interests lie in deep learning and computational imaging, with a particular focus on electron/optical microscopy image processing.
 
-CV: [LI Lin's Curriculum Vitae](../assets/CV.pdf)
+#CV: [LI Lin's Curriculum Vitae](../assets/CV.pdf)
