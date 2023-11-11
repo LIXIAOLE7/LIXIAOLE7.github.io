@@ -15,10 +15,8 @@ Education
 * M.Sc. in Data Science, City University of Hong Kong
 * Ph.D. in Data Science, City University of Hong Kong
   
-TA
+Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
