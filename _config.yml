@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Hong Kong"
 title                    : "LI Lin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LI Lin"
 description              : &description "personal description"
 url                      : https://lixiaole7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : "Kowloon, Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AETOMgHf7mJrUoMfQJZA07NN0z9ibw-kuCng064faUM8ZE24OJlmF3I44mmxe55a0CNdpba3QTvOjjeReUq6Bg&user=36LnQbUAAAAJ"
   email            :  "linli82-c@my.cityu.edu.hk"
   researchgate     :  "https://www.researchgate.net/profile/Lin-Li-318"
   uri              :
